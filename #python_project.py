@@ -15,7 +15,7 @@ elif a=="login":
     b=input("Username: ")
     c=input("Password: ")
     with open('registrationuser.txt') as file:
-      if a and b in file.read():
+      if b and c in file.read():
           print("Successfully Logged In")
       else:
           print("Incorrect Username Or Password")
