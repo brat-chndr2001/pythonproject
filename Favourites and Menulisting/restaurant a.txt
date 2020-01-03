@@ -1,0 +1,15 @@
+Restaurant A food items:.........
+hyderabadi chicken biriyani
+mushroom manchurian
+brownie
+______________________________________ 
+
+Your order is: Brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie
+Your order is: brownie

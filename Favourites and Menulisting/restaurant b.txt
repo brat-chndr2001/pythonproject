@@ -1,0 +1,8 @@
+Restaurant B food items:
+1.Chicken Fried Rice
+2.French Fries
+3.Chocolate Ice cream
+-----------------------------------
+
+Your order is: French fries
+Your order is: french fries

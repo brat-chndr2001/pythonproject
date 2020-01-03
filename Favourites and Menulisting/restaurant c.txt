@@ -1,0 +1,9 @@
+Restaurant C food items
+1.Butter Nun
+2.Dal Makhani
+3.Kulfi
+--------------------------
+
+your order is: Butter nun
+your order is: butter nun
+your order is: kulfi
